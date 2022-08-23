@@ -7,6 +7,10 @@ last_modified: '2022-08-01T10:46:33.163475'
 parser: null
 source_metadata:
   title: Commentary
+  base:
+    EEE9:
+      title: Commentary
+      base_file: EEE9.txt
 statistics: {}
 quality: {}
 copyright:
